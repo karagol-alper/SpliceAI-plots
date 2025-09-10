@@ -21,7 +21,11 @@ Automatic downsampling of x-axis ticks (clean labels even for long data)
 Input file should be tab-separated with an index column and multiple numeric columns:
 
 Index   Col1   Col2   Col3   Col4
+
 1       0.00   0.00   0.00   0.00
+
 2       0.00   0.00   0.01   0.00
+
 3       0.00   0.00   0.00   0.00
+
 ...
